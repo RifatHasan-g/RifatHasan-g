@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-<h3>- 🔭 <b>I’m currently study</b> **[Daffodil International University (DIU)]</h3>(https://daffodilvarsity.edu.bd/)**
+-🔭 <b>I’m currently study</b> **[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)**
 
 - 💬 Ask me about ..... Anything
 
