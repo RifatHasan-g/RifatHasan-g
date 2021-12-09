@@ -8,7 +8,7 @@
 
 -🔭 <b>I’m currently study</b> **[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)**
 
-- 💬 Ask me about ..... Anything
+- 💬 Ask me..... Anything
 
 <!-- - 👯 I’m looking to collaborate on **OpenSource Projects** -->
 
