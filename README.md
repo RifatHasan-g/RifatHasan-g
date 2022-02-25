@@ -1,6 +1,7 @@
 <h1> Hello < Coders/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Safi+Hasan+Rifat;Developer+from+Bangladesh."> 
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Safi+Hasan+Rifat;Developer+from+Bangladesh.;
+          I’m+currently+study</b>+**[Daffodil International University+(DIU)](https://daffodilvarsity.edu.bd/)"> 
 </p>
 <!-- <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
@@ -15,10 +16,10 @@
 
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rifat</h1>
-<h3 align="center">I'm a Developer from Bangladesh.</h3>
+<h3 align="center">I'm a Developer from Bangladesh.</h3> -->
 
 
 ## 🙋‍♂️ About Me
