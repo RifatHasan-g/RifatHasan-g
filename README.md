@@ -2,7 +2,7 @@
 
 <!-- <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
-<hr>
+
 <!-- <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=name">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/safihasan-Rifat?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
 
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<hr>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Safi+Hasan+Rifat😊;Developer+from+Bangladesh❤😊."> 
 </p>
