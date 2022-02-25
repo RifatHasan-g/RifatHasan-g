@@ -48,11 +48,11 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rifat streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SafiHasan-Rifat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+<!-- 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/SafiHasan-Rifat/github-readme-stats"><img alt="Rifat Github Stats" src="https://github-readme-stats.vercel.app/api?username=SafiHasan-Rifat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/SafiHasan-Rifat/github-readme-stats"><img alt="Rifat Github Stats" src="https://github-readme-stats.vercel.app/api?username=SafiHasan-Rifat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <!-- <a href="https://github.com/SafiHasan-Rifat/github-readme-stats"><img alt="Rifat Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SafiHasan-Rifat&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/> -->
   <!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
@@ -66,7 +66,7 @@
 <br/> -->
 <br/>
 
-## Connect with me:
+<!-- ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/#/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -74,10 +74,42 @@
 <a href = "https://www.instagram.com/#/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
-</p>
+</p> -->
 
+
+<div align="center">
+  <h3><b>Can Connect With Me On</b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com" target="_blank">
+  <img align="center" alt="Safi Hasan Rifat | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com" target="_blank">
+  <img align="center" alt="Safi Hasan Rifat | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com" target="_blank">
+  <img align="center" alt="Safi Hasan Rifat | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:gmail" >
+  <img align="center" alt="Safi Hasan Rifat| Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com" target="_blank">
+    <img align="center" alt="Safi Hasan Rifat | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<a href="https://personal_web" target="_blank">
+<img align="center" width="30px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-coding-online-learning-vitaliy-gorbachev-lineal-color-vitaly-gorbachev.png"/>
+</a>
+    <a href=" https://gitlab.com/Safi_Hasan_Rifat" target="_blank">
+<img align="center" width="30px" src="<i class="fa-brands fa-gitlab"></i>"/>
+</a>
+    
+   
+<p>
+
+<h3 align='center'>Thank You!!!!!</h3>
+<!-- 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SafiHasan-Rifat">
 </a>
-<a href="https://github.com/SafiHasan-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/SafiHasan-Rifat?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SafiHasan-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/SafiHasan-Rifat?label=Followers&style=social" alt="GitHub Badge"></a> -->
