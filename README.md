@@ -103,7 +103,7 @@
 <img align="center" width="30px" src="<i class="fa-brands fa-gitlab"></i>"/>
 </a>
     
-   
+   <script src="https://kit.fontawesome.com/91017145c1.js" crossorigin="anonymous"></script>
 <p>
 
 <h3 align='center'>Thank You!!!!!</h3>
