@@ -102,15 +102,12 @@
  
 <a href="https://personal_web" target="_blank">
 <img align="center" width="30px" src="<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png"/>
 </a>
     
   
 <p>
 
-<h3 align='center'>Thank You!!!!!</h3>
-<!-- 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SafiHasan-Rifat">
-</a>
-<a href="https://github.com/SafiHasan-Rifat?tab=followers"><img src="https://img.shields.io/github/followers/SafiHasan-Rifat?label=Followers&style=social" alt="GitHub Badge"></a> -->
+<h3 align='center'>Thank You!!!</h3>
+
+
