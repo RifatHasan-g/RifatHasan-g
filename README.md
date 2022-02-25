@@ -1,4 +1,4 @@
-<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, < Coders/>! 💻 </h1>
+<h1> Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, < Coders/>!👨‍💻 : </h1>
 
 <!-- <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p> -->
@@ -37,7 +37,7 @@
 
 ## 🚀 Languages and Tools:
 
-### Languages 👨‍💻 :
+
 
 <br>
 <p align='left'>
