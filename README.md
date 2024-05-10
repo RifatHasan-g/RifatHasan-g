@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
--🔭 <b>I’m currently study</b> **[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)**
+-🔭 <b>I’m Graduated from </b> **[Daffodil International University (DIU)](https://daffodilvarsity.edu.bd/)**
 
 - 💬 Ask me..... Anything
 
